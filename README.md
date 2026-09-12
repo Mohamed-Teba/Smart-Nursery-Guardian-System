@@ -85,20 +85,20 @@ The system continuously monitors the nursery environment. When the baby cries, a
 ![Gas Alert Dashboard](screenshots/Gas%20Alret.jpg)
 
 ### Hardware LCD Display
-![Hardware LCD](assets/Hardware%20Result.jpg)
+![Hardware LCD](screenshots/Hardware%20Result.jpg)
 
 ### Telegram Bot
-![Telegram Bot](assets/Telegram%201.jpg)
+![Telegram Bot](screenshots/Telegram%201.jpg)
 
 ---
 
 ## 🔌 Hardware Design
 
 ### Full Circuit Diagram
-![Full Circuit](assets/full-circuit.jpg)
+![Full Circuit](hardware/tinkercad-simulation/full-circuit.jpg)
 
 ### Custom PCB (3D View)
-![PCB 3D](assets/PCB%203D.png)
+![PCB 3D](hardware/pcb-design/PCB%203D.png)
 
 > Designed in **Altium Designer** – dated 5-9-2026 – Team 6
 
