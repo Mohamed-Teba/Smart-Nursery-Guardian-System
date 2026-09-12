@@ -1,7 +1,7 @@
 # 🍼 Smart Nursery Guardian System
 
 <p align="center">
-  <img src="assets/logo.png" alt="Smart Nursery Guardian Logo" width="180"/>
+  <img src="assets/telegram-logo.jpg" alt="Smart Nursery Guardian Logo" width="180"/>
 </p>
 
 <p align="center">
