@@ -79,10 +79,10 @@ The system continuously monitors the nursery environment. When the baby cries, a
 ## 🖼️ System Screenshots
 
 ### Dashboard – Temp Alert
-![Temp Alert Dashboard](screenshots/Temp Alret.jpg)
+![Temp Alert Dashboard](screenshots/Temp%20Alret.jpg)
 
 ### Dashboard – Gas Alert
-![Gas Alert Dashboard](screenshots/Gas Alret.jpg)
+![Gas Alert Dashboard](screenshots/Gas%20Alret.jpg)
 
 ### Hardware LCD Display
 ![Hardware LCD](assets/Hardware%20Result.jpg)
