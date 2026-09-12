@@ -1,0 +1,11 @@
+streamlit
+pyserial
+joblib
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+librosa
+sounddevice
+soundfile
+python-telegram-bot
